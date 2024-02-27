@@ -49,7 +49,6 @@ To run tests, run the following command
     - mongoose.js
     - passport-jwt.js
     - secure.js
-    - swagger.js
 * controllers
     - cartCotroller.js
     - categoryController.js
